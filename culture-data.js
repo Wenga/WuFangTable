@@ -3,7 +3,7 @@ export const cultureCards={
 'guangzhou-dish':{title:'豆苗鲜虾饺',region:'广东 · 广州',image:'/illustrations/pea-shoot-shrimp-dumplings.png',text:[
 '虾饺是广式早茶的经典点心。一壶茶、几笼点心，把相聚的时光慢慢拉长。这次以豆苗与鲜虾入馅，沿着广州早茶的日常，品一口清鲜。',
 '蝦餃是廣式早茶的經典點心。一壺茶、幾籠點心，把相聚的時光慢慢拉長。這次以豆苗與鮮蝦入餡，沿著廣州早茶的日常，品一口清鮮。',
-'Shrimp dumplings are a Cantonese dim sum classic. Tea and small baskets of food turn a meal into time spent together. This pea shoot and shrimp version takes its cue from Guangzhou’s everyday yum cha ritual.'],referenceSource:'https://www.gz.gov.cn/zt/jrshts/2024n/2024npacy/gzgn/content/post_9485540.html',source:'https://zh.wikipedia.org/wiki/蝦餃',sourceLabel:'维基百科 · 虾饺 ↗'},
+'Shrimp dumplings are a Cantonese dim sum classic. Tea and small baskets of food turn a meal into time spent together. This pea shoot and shrimp version takes its cue from Guangzhou’s everyday yum cha ritual.'],referenceSource:'https://www.gz.gov.cn/zt/jrshts/2024n/2024npacy/gzgn/content/post_9485540.html',source:'https://zh.wikipedia.org/wiki/蝦餃',sourceByLanguage:['https://zh.wikipedia.org/zh-hans/蝦餃','https://zh.wikipedia.org/zh-hant/蝦餃','https://en.wikipedia.org/wiki/Har_gow'],sourceLabel:'维基百科 · 虾饺 ↗'},
 'guangzhou-tea':{title:'菊花茶',region:'广东 · 广州',image:'/illustrations/chrysanthemum-tea.png',text:[
 '广州饮早茶，茶与点心同样重要，菊花茶也是茶桌上的选择之一。花朵在水中舒展，淡淡花香陪着鲜虾饺，让这一席从一杯清香开始。',
 '廣州飲早茶，茶與點心同樣重要，菊花茶也是茶桌上的選擇之一。花朵在水中舒展，淡淡花香陪著鮮蝦餃，讓這一席從一杯清香開始。',
